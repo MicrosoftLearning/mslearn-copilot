@@ -1,13 +1,11 @@
-# Microsoft Lab Exercises
+# Work Smarter with AI
 <!-- Change the title above as appropriate -->
 
 This repo contains exercises and supporting files for Microsoft skilling content.
 
-The exercises may be used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com) and in Microsoft authorized instructor-led training.
-<!-- Update thr paragraph above with a link to a specific Learning Path or course as appropriate -->
+The exercises may be used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com/training/paths/work-smarter-with-ai/) and in Microsoft authorized instructor-led training.
 
 ## Information for MCTs
-<!-- You can remove this section if the exercises will not be used to support Microsoft Official Curriculum ILT -->
 
 **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 

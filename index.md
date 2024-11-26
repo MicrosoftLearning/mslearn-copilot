@@ -1,24 +1,23 @@
 ---
-title: Exercise Instructions
+title: Microsoft Learn - Copilot Exercises
 permalink: index.html
 layout: home
 ---
 
-# Exercises
+# Work Smarter with AI
 
-This page lists exercises associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com)
+These hands-on exercises are designed to support training content on [Microsoft Learn](https://learn.microsoft.com/training/paths/work-smarter-with-ai/).
 
-<!-- You can edit the paragraph above to provide a more specific description and links to content on Learn.
+To complete the exercise, you'll need <u>either</u>:
 
-Include the following note if an Azure subscription is required (or add something similar for any other requirements, such as a Microsoft 365 account).
+- [Microsoft Copilot Pro or a Microsoft 365 account that includes Microsoft 365 Copilot](https://www.microsoft.com/microsoft-365/copilot#Gettingstarted)
 
-> **Note**: To complete these exercises, you will need a [Microsoft Azure subscription](https://azure.microsoft.com/free) in which you have sufficient permissions to create and configure the required resources.
+    or
 
-If a more complex setup is required, create a separate markdown file with setup instructions at \Instructions\Labs\00-setup.md - being sure to include "lab.title"" metadata at the top so it shows up the list below
--->
+- A personal [Microsoft account](https://signup.live.com/) and [Microsoft Edge](https://www.microsoft.com/edge/download)
 
-{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-{% for activity in labs  %}
-- [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
+{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions'" %}
+| Exercises |
+| ------- | 
+{% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
-
