@@ -20,7 +20,7 @@ This exercise should take approximately **40** minutes to complete.
 
 To start your exploration of generative AI, let's use Copilot for Word to examine an existing document and extract some insights from it.
 
-1. In a web browser, open the document [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/Business%20Idea.docx) at `https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/Business%20Idea.docx`. 
+1. In a web browser, open the document [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx) at `https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx`. 
 1. Download the file to your **Downloads** folder. Then close the web browser.
 1. **Move** or **Copy & Paste** the document you just downloaded to the **OneDrive** folder.
 1. From your **OneDrive** folder, open **Business Idea.docx** in Microsoft Word (closing any welcome messages or notifications of new features) and review the document, which describes some high-level ideas for a cleaning business in New York City. If prompted, select **Enable editing** at the top.

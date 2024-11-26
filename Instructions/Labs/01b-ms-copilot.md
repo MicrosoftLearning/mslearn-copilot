@@ -21,7 +21,7 @@ This exercise should take approximately **40** minutes to complete.
 To start your exploration of generative AI, let's use Microsoft Copilot in Edge to examine an existing document and extract some insights from it.
 
 1. In Microsoft Edge, browse to [OneDrive](https://onedrive.live.com) at `https://onedrive.live.com` and sign in using your personal Microsoft account - closing any welcome messages or offers that are displayed.
-1. In another browser tab, open the document [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/Business%20Idea.docx) from `https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/Business%20Idea.docx`. Then, when the document opens in Edge, select the option to **Edit a copy** to copy the document to your OneDrive. The document should then open in Microsoft Word online automatically.
+1. In another browser tab, open the document [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx) from `https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx`. Then, when the document opens in Edge, select the option to **Edit a copy** to copy the document to your OneDrive. The document should then open in Microsoft Word online automatically.
 
     > **Tip**: If you don't see the option to edit a copy, download it to your local computer. Then, in OneDrive, use the **+ Add new** button to upload the **Business Idea.docx** file from your local computer to OneDrive.
 
@@ -164,7 +164,7 @@ Thanks to Copilot, you've created a business plan for the cleaning business and 
 
     ![Screenshot of a PowerPoint presentation with Copilot-generated content.](./Media/powerpoint-slide.png)
 
-1. Open a new browser tab and use it to download the [mopping.png](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/mopping.png) image from `https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/mopping.png` to your local computer, saving it in any folder.
+1. Open a new browser tab and use it to download the [mopping.png](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/mopping.png) image from `https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/mopping.png` to your local computer, saving it in any folder.
 1. Return to the browser tab containing your PowerPoint presentation, and in the Copilot pane, use the **+** button next to the chat box to upload the **mopping.png** image to Copilot, and add the prompt `What does this image show?`.
 1. Review the response, which should be similar to this:
 
