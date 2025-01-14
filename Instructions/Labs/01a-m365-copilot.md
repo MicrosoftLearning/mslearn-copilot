@@ -131,8 +131,6 @@ With a business plan in hand, let's take some of that data on financial projecti
 
 1. Save the workbook and close Excel.
 
-You have just used data created from Copilot in Word to visualize it in Excel. In the next exercise, you'll move onto using Copilot in Outlook to compose and send emails about the work you've done.
-
 ## Use Copilot to create content for a presentation
 
 With Copilot's help, you've created a draft of a business plan for the cleaning business idea and prepared some financial projections. Now you'll need an effective presentation to communicate the benefits of your business.
