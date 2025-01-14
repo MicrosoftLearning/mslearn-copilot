@@ -102,7 +102,6 @@ Now that you've done some initial research, let's have Copilot help you develop 
 
 With Copilot's help, you've created a draft of a business plan for the cleaning business idea. Now let's use Copilot to perform some calculations that will help further refine the business plan.
 
-1. In OneDrive, use the **(+)** button to add a new **Excel workbook**. Then change the name of the workbook to `Financial Projections`.
 1. In the Copilot pane, enter the following prompt:
 
     ```prompt
@@ -110,7 +109,11 @@ With Copilot's help, you've created a draft of a business plan for the cleaning 
     ```
 
 1. Review the response, which should include a table of projected profits for the next five years.
-1. Copy the table to the clipboard (being careful to select just the table). Then select cell A1 in the Excel workbook, and on the **Home** tab, in the **Clipboard** menu, under **Paste special**, select **Values only** to that the values from the table are pasted into the spreadsheet like this:
+1. Select the option to edit the table in Excel. A new Excel workbook should open in the browser with the table of projections.
+
+    > **Tip**: If the option to edit in Excel is not present, or a workbook is not created, in OneDrive, use the **(+)** button to add a new **Excel workbook**. and copy the table of data from the Copilot pane into the workbook.
+
+1. Change the name of the workbook to `Financial Projections`. It should look similar to this:
 
     ![Screenshot of an Excel workbook with Copilot-generated data.](./Media/generated-financials.png)
 
