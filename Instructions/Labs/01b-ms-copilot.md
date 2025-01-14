@@ -32,6 +32,8 @@ To start your exploration of generative AI, let's use Microsoft Copilot in Edge 
 
     ![Screenshot of the Copilot pane in Microsoft Edge.](./Media/edge-copilot.png)
 
+    > **Tip**: Microsoft Copilot is continually improved. Your user interface may not match the image shown exactly.
+
 1. In the chat box at the bottom of the Copilot pane, enter following the prompt:
 
     ```prompt
@@ -109,9 +111,7 @@ With Copilot's help, you've created a draft of a business plan for the cleaning 
     ```
 
 1. Review the response, which should include a table of projected profits for the next five years.
-1. Select the option to edit the table in Excel. A new Excel workbook should open in the browser with the table of projections.
-
-    > **Tip**: If the option to edit in Excel is not present, or a workbook is not created, in OneDrive, use the **(+)** button to add a new **Excel workbook**. and copy the table of data from the Copilot pane into the workbook.
+1. If an option to edit the table in Excel is shown, select it to create a new workbook with the table of data. Otherwise, return to the OneDrive tab and, use the **(+)** button to add a new **Excel workbook**. Then copy the table of data from the Copilot pane into the workbook.
 
 1. Change the name of the workbook to `Financial Projections`. It should look similar to this:
 
