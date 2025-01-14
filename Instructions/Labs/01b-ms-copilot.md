@@ -209,28 +209,8 @@ Thanks to Copilot, you've created a business plan for the cleaning business and 
 You've created some collateral to help you get your business started. Now it's time to reach out to an investor seeking some startup funding.
 
 1. Use the **App Launcher** (&#8759;) at the left end of the OneDrive title bar to open **Outlook**.
-1. Switch to the **Calendar** page and change the view to **Work week**. If you don't already have any scheduled events in your calendar, you can add a couple so that Copilot has some information to work with.
-1. In the Copilot pane, enter the following prompt:
 
-    ```prompt
-    What events do I have scheduled in this calendar?
-    ```
-    
-    Copilot should be able to read the calendar in the web page and identify events in your calendar:
-
-    ![Screenshot of an Outlook calendar with Copilot identifying events.](./Media/calendar-events.png)
-
-1. Try using this prompt to check your availability for a meeting with a a bank manager to seek funding for the business:
-
-    ```prompt
-    What's my availability for a meeting this week?
-    ```
-
-    Copilot should provide a summary of your availability based on the calendar information in the Outlook web page.
-
-    > **Note**: Microsoft Copilot can read the calendar page that is open in the browser (and may "remember" details during the current session), but it cannot access your calendar data directly. In a corporate environment, your organization can use Microsoft 365 Copilot, which *does* have access to your calendar and email in Outlook, as well as information in other enterprise apps like Microsoft Teams.
-
-1. Switch to the **Mail** page, and create a new email. Fill in the **To** box with your own email address and set the **Subject** to `Business funding meeting request`.
+1. On the **Mail** page, create a new email. Fill in the **To** box with your own email address and set the **Subject** to `Business funding meeting request`.
 1. In the Copilot pane, enter the following prompt:
 
     ```prompt
