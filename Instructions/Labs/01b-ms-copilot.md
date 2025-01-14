@@ -12,6 +12,8 @@ Imagine this: you're about to launch a top-notch cleaning service that will revo
 
 Get ready to unleash your creativity and business acumen as you navigate through this engaging and interactive lab. By the end of this exercise, you'll have a comprehensive set of materials that will set you on the path to entrepreneurial success. Let's get started and make your corporate cleaning company a reality!
 
+> **Important**: This exercise provides prompts that you can use to work with Copilot. You should use these as a *starting point* for your exploration of Copilot. You are encouraged to modify these prompts and add prompts of your own to engage in an iterative dialog with Copilot and refine the results it produces. You may not end with exactly the output that is described in the exercise instructions, but that's OK - the point is to experiment with Copilot.
+
 This exercise should take approximately **40** minutes to complete.
 
 > **Note**: This exercise assumes that you have a [personal Microsoft Account](https://signup.live.com) (such as an outlook.com account) with which you are signed into [Microsoft Edge](https://www.microsoft.com/edge/download) on your computer. If you have both a work account and a personal account, be sure to select your *personal* account in the account settings at the top left of Microsoft Edge.
