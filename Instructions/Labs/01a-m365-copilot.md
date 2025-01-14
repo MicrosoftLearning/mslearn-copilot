@@ -82,7 +82,7 @@ Now that you've done some initial research, let's have Copilot help you develop 
 
     ![Screenshot of the Copilot drafting a business plan.](./Media/copilot-draft-business-plan-prompt.png)
 
-    > **Tip**: Type the prompt, and when you type "/" Copilot should enable you to browse the documents in your OneDrive folder. If Copilot does not suggest any documents, it may be because your OneDrive has not yet been fully indexed. In this case, modify the prompt to `Write a business plan for "Contoso Cleaning", a commercial cleaning buisness in New York. Include an executive summary, market overview, and financial projections.`.
+    > **Tip**: Type the prompt, and when you type "/" Copilot should enable you to browse the documents in your OneDrive folder. If Copilot does not suggest any documents, it may be because your OneDrive has not yet been fully indexed. In this case, modify the prompt to `Write a business plan for "Contoso Cleaning", a commercial cleaning business in New York. Include an executive summary, market overview, and financial projections.`.
 
 1. Generate and review a response. Then keep it, adjust the tone, length, or ask Copilot to rewrite it with a new prompt. Apply appropriate headings and styling to your document to make it look professional before saving it as **Business Plan.docx** in your OneDrive folder. Your document should look something like this:
 
