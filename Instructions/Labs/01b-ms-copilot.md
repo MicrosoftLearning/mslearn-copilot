@@ -78,7 +78,7 @@ Now that you've done some initial research, let's have Copilot help you develop 
     ```
 
 1. Review the response. Then in the Microsoft Word pane, in the **File** menu, create a new blank document. Close the **Designer** pane if it opens and change the name of the new document from *Document* to `Business Plan`.
-1. Copy the business plan that was generated in the Copilot pane and paste it into the business plan document:
+1. Copy the business plan that was generated in the Copilot pane and paste it into the business plan document, removing any unnecessarily Copilot content:
 
     ![Screenshot of a Word document with a Copilot-generated business plan.](./Media/generated-content.png)
 
@@ -113,7 +113,7 @@ With Copilot's help, you've created a draft of a business plan for the cleaning 
 1. Review the response, which should include a table of projected profits for the next five years.
 1. If an option to edit the table in Excel is shown, select it to create a new workbook with the table of data. Otherwise, return to the OneDrive tab and, use the **(+)** button to add a new **Excel workbook**. Then copy the table of data from the Copilot pane into the workbook.
 
-1. Change the name of the workbook to `Financial Projections`. It should look similar to this:
+1. Change the name of the workbook to `Financial projections`. It should look similar to this:
 
     ![Screenshot of an Excel workbook with Copilot-generated data.](./Media/generated-financials.png)
 
@@ -147,6 +147,8 @@ Thanks to Copilot, you've created a business plan for the cleaning business and 
 
 1. On the title slide for the presentation, enter the the name of your cleaning company as the title, and `Investor Opportunity` as the subtitle.
 1. Insert a new slide, using the **Two Content** slide layout (which includes a title and two placeholders for content).
+    ![Screenshot of a new two content slide.](./Media/two-content-slide.png)
+
 1. Change the slide title to `Benefits of Hiring a Commercial Cleaner`.
 1. In the Copilot pane, enter the following prompt:
 
