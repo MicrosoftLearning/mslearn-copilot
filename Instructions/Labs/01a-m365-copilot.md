@@ -144,12 +144,17 @@ With Copilot's help, you've created a draft of a business plan for the cleaning 
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
     ```
+1. Review the presentation design, then select **Generate slides**.
 
+    ![Screenshot of PowerPoint presentation created by Copilot from a Word document.](./Media/copilot-generate-slides.png)
 1. Copilot will generate slides in the presentation.  The process may take several minutes and your output should look something like this with a different theme:
 
-    ![Screenshot of PowerPoint presentation created by Copilot from a Word document.](./Media/copilot-powerpoint-create-image.png)
+    ![Screenshot of PowerPoint presentation created by Copilot from a Word document.](./Media/generate-slides-copilot.png)
 
-1. Select the second-last slide in the presentation (before the final *Conclusion* slide if Copilot generated one). Then, in the Copilot pane, in the chat box, select the **View prompts** icon and select the **Add a slide about...** prompt to create a new slide using the prompt `Add a slide about the benefits of an eco-friendly approach to cleaning.`
+1. Select **Keep it**, then set your **view** to **normal** on the lower right of your PowerPoint presentation
+    ![Screenshot of PowerPoint presentation create a new slide.](./Media/normal-presentation-view.png)
+
+1. Select the second-last slide in the presentation (before the final *Conclusion* slide if Copilot generated one). Then, in the Copilot pane, in the chat box, prompt to create a new slide using the prompt `Add a slide about the benefits of an eco-friendly approach to cleaning.`
 
     ![Screenshot of PowerPoint presentation create a new slide.](./Media/copilot-powerpoint-add-new-slide.png)
 
