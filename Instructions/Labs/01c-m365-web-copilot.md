@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Explore Microsoft 365 Copilot (Web Version)'
+    title: 'Explore Microsoft 365 Copilot (Web version)'
 ---
 # Explore Microsoft 365 Copilot (Web Version)
 
