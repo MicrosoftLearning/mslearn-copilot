@@ -115,7 +115,7 @@ With a business plan in hand, let's take some of that data on financial projecti
     1. Choose a style for your table.
     1. In the **Create Table** dialog box, confirm or set your cell range.
     1. Mark if your table has headers, and select **OK**.
-1. With your sales projections formatted as a table, open the Copilot pane from the **Home** tab of the Excel ribbon and enter the following prompt:
+1. With your sales projections formatted as a table, open the Copilot pane from the **Home** tab of the Excel ribbon, select the **App Skills** option and enter the following prompt:
 
     ```prompt
     Suggest ways to visualize these financial projections.
