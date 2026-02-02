@@ -26,7 +26,7 @@ Before beginning the lab exercises, you'll need to access Microsoft 365 through 
 - **All Apps**: [https://m365.cloud.microsoft/apps/](https://m365.cloud.microsoft/apps/)
 
 You can also access individual applications directly using these links:
-- **OneDrive**: [https://m365.cloud.microsoft/onedrive/](https://m365.cloud.microsoft/onedrive/)
+- **OneDrive**: [https://onedrive.cloud.microsoft/](https://onedrive.cloud.microsoft/)
 - **Word**: [https://word.cloud.microsoft/](https://word.cloud.microsoft/)
 - **Excel**: [https://excel.cloud.microsoft/](https://excel.cloud.microsoft/)
 - **PowerPoint**: [https://powerpoint.cloud.microsoft/](https://powerpoint.cloud.microsoft/)
@@ -38,7 +38,7 @@ To start your exploration of generative AI, let's use Copilot for Word on the we
 
 1. In a web browser, open the document [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx) at `https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx`. 
 1. Download the file to your **Downloads** folder.
-1. Navigate to **OneDrive** on the web at [https://m365.cloud.microsoft/onedrive/](https://m365.cloud.microsoft/onedrive/) and upload the **Business Idea.docx** document you just downloaded.
+1. Navigate to **OneDrive** on the web at [https://onedrive.cloud.microsoft/](https://onedrive.cloud.microsoft/) and upload the **Business Idea.docx** document you just downloaded.
 1. From your **OneDrive**, open **Business Idea.docx** in **Microsoft Word** on the web by navigating to [https://word.cloud.microsoft/](https://word.cloud.microsoft/) or by clicking on the document in OneDrive (closing any welcome messages or notifications of new features) and review the document, which describes some high-level ideas for a cleaning business in New York City. If prompted, select **Enable editing** at the top.
 
     > **Tip**: You can close the **Navigation** pane if it is open to see more of the document.
