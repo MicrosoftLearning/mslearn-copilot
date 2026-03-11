@@ -1,7 +1,7 @@
 ---
 lab:
   title: Explore Microsoft 365 Copilot (Web version)
-  description: 'In this exercise, you''ll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company using the web versions of Microsoft 365 applications.'
+  description: 'In this exercise, you'll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company using the web versions of Microsoft 365 applications.'
   duration: 40 minutes
   level: 100
   islab: true
