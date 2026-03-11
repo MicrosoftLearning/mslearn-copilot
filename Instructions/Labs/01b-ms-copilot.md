@@ -1,7 +1,14 @@
 ---
 lab:
-    title: 'Explore Copilot in Microsoft Edge'
+  title: Explore Copilot in Microsoft Edge
+  description: Welcome to the exciting world of Microsoft Copilot!
+  duration: 40 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft Copilot
 ---
+
 # Explore Microsoft Copilot in Microsoft Edge
 
 Welcome to the exciting world of Microsoft Copilot!
