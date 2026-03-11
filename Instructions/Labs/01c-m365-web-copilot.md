@@ -1,7 +1,16 @@
 ---
 lab:
-    title: 'Explore Microsoft 365 Copilot (Web version)'
+  title: Explore Microsoft 365 Copilot (Web version)
+  description: Welcome to the exciting world of Microsoft 365 Copilot using the web-based
+    Microsoft 365 applications!
+  duration: 40 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
+
 # Explore Microsoft 365 Copilot (Web Version)
 
 Welcome to the exciting world of Microsoft 365 Copilot using the web-based Microsoft 365 applications!
