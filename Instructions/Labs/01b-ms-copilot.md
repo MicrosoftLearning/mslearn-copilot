@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Explore Copilot in Microsoft Edge'
+  title: Explore Copilot in Microsoft Edge
+  description: 'In this exercise, you'll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company.'
+  duration: 40 minutes
+  level: 100
+  islab: true
 ---
+
 # Explore Microsoft Copilot in Microsoft Edge
 
 Welcome to the exciting world of Microsoft Copilot!
