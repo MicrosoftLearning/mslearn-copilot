@@ -1,15 +1,7 @@
 ---
 lab:
-  title: Explore Microsoft 365 Copilot
-  description: 'In this exercise, you'll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company.'
-  duration: 40 minutes
-  level: 100
-  islab: true
-  primarytopics:
-    - Microsoft 365
-    - Microsoft 365 Copilot
+    title: 'Explore Microsoft 365 Copilot'
 ---
-
 # Explore Microsoft 365 Copilot
 
 Welcome to the exciting world of Microsoft 365 Copilot!
