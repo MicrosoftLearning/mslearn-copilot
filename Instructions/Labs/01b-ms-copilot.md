@@ -5,6 +5,7 @@ lab:
   duration: 40 minutes
   level: 100
   islab: true
+  status: # released
 ---
 
 # Explore Microsoft Copilot in Microsoft Edge
