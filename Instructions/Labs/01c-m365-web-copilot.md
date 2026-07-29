@@ -5,7 +5,7 @@ lab:
   duration: 40 minutes
   level: 100
   islab: true
-  status: # released
+  status: released
   primarytopics:
     - Microsoft 365
     - Microsoft 365 Copilot
