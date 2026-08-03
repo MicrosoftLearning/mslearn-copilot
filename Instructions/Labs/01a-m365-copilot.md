@@ -62,7 +62,7 @@ To start your exploration of generative AI, let's use Copilot for Word to examin
     How do I setup a new business in New York? Answer with a numbered list.
     ```
 
-1. Review the response and follow up with additional questions as needed. When you're happy with the response, copy it to the clipboard. Paste it into the Word document after the existing text. Then select the text that provides a list of things to do when setting up a business in New York and use the Copilot icon (at the bottom of the selected text) to visualize the text as a table.
+1. Review the response and follow up with additional questions as needed. When you're happy with the response, copy it to the clipboard. Paste it into the Word document after the existing text. Then select the text that provides a list of things to do when setting up a business in New York and select the Edit with Copilot icon (at the bottom of the selected text) type in visualize the text as a table.
 
     ![Screenshot asking Copilot to visualize in a table format.](./Media/copilot-rewrite-as-table.png)
 
@@ -136,7 +136,7 @@ With a business plan in hand, let's take some of that data on financial projecti
 
     > **Tip**: If Copilot suggests a different format for the data, enter the follow-on prompt `Visualize the data as a line chart.`.
 
-1. Select the option in the Copilot response to add the pivot chart to a new sheet and open it. Select the chart and then select **Design** to apply styles, change the chart type and other actions. At the end, you should have something that resembles this:
+1. Select the option in the Copilot response to add the pivot chart to a new sheet and open it. Select the chart to apply styles, change the chart type and other actions. At the end, you should have something that resembles this:
 
     ![Screenshot of Copilot in Excel adding a PivotChart.](./Media/copilot-excel-chart-design.png)
 
@@ -153,15 +153,13 @@ With Copilot's help, you've created a draft of a business plan for the cleaning 
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
     ```
-1. Review the presentation design, then select **Generate slides**.
+1. Review the presentation design, click Skip all any time you asked for specific details and your deck will be generated.
 
     ![Screenshot of PowerPoint presentation created by Copilot from a Word document.](./Media/copilot-generate-slides.png)
 1. Copilot will generate slides in the presentation.  The process may take several minutes and your output should look something like this with a different theme:
 
     ![Screenshot of PowerPoint presentation created by Copilot from a Word document.](./Media/generate-slides-copilot.png)
 
-1. Select **Keep it**, then set your **view** to **normal** on the lower right of your PowerPoint presentation
-    ![Screenshot of PowerPoint presentation create a new slide.](./Media/normal-presentation-view.png)
 
 1. Select the second-last slide in the presentation (before the final *Conclusion* slide if Copilot generated one). Then, in the Copilot pane, in the chat box, prompt to create a new slide using the prompt `Add a slide about the benefits of an eco-friendly approach to cleaning.`
 
@@ -184,7 +182,7 @@ You've created some collateral to help you get your business started. Now it's t
     Copilot should respond with a summary of your scheduled events for the week - helping you identify availability for a meeting with a bank manager to arrange startup funding.
 
 1. Switch to the **Mail** page and create a new email, and fill in the **To** box with your own email address.
-1. Select the option to **Draft with Copilot**:
+1. Select the option to **Help me write and email**:
 
     ![Screenshot of Outlook and the option to draft an email with Copilot.](./Media/copilot-draft-email-outlook.png)
     
@@ -194,7 +192,7 @@ You've created some collateral to help you get your business started. Now it's t
     Write an email to a bank manager requesting a meeting to discuss funding for a commercial cleaning business. The email should be concise and the tone should be professional.
     ```
 
-1. Use Copilot to refine the email content, and then select **Keep it** to finalize the message.
+1. Use Copilot to refine the email content.
 
     ![Screenshot of drafting an email with Copilot in Outlook.](./Media/copilot-draft-email-adjust-tone-outlook.png)
 
